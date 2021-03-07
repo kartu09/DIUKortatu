@@ -34,7 +34,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Sofia",
-				Photo: "sofia.jfif",
+				Photo: "sofia.jpeg",
 				Quote: "Anteponerse ante las adversidades",	
 				Age: 25,
 				Occupation: "Estudiante de master en pedagogía",
@@ -75,7 +75,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Francisco Fernandez",
-				Photo: "woman.png",
+				Photo: "francisco_fernandez.jpeg",
 				Quote: "tempus fugit",
 				Age: 53,
 				Occupation: "Fontanero",
