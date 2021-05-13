@@ -9,7 +9,7 @@ Proyecto: Ruta del Jamón
 Descripción:Aplicación Web que permitirá a los usuarios realizar realizar visitas turísticas por los pueblos de la alpujarra con un interés gastronómico.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![logo_ruta_del_jamon](https://user-images.githubusercontent.com/79192917/118139036-44625d80-b407-11eb-8f66-0869e1a0e1e7.png)
 
 Miembros
 👤 Carlos Luciano Jimenez Lopez :octocat:
