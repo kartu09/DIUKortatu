@@ -4,12 +4,9 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU3_Kortatu.  Curso: 2020/21 
 Updated: 13/05/2021
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: Ruta del Jamón
 
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Descripción:Aplicación Web que permitirá a los usuarios realizar realizar visitas turísticas por los pueblos de la alpujarra con un interés gastronómico.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
