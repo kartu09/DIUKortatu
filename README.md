@@ -140,14 +140,11 @@ Optimism Bias: Se ha intentado usar un lenguaje positivo respecto al producto qu
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+El layout en Adobe xd está disponible en la carpeta 3 y se llama Ruta del Jamon.xd
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
 En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
 
 
