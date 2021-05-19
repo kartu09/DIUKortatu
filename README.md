@@ -23,15 +23,24 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+Hemos elegido realizar la práctica sobre la página disfrutamadrid.com, de la que se va a realizar un análisis de competitividad.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Como ejemplos de competidores en Madrid existe turismoenmadrid.com, freetour.com o como competición de fuera de Madrid existen granada.city-tour.com y barcelonaturisme.com.
 
+turismoenmadrid.com ofrece esencialmente el mismo producto que disfrutamadrid.com, se puede considerar el competidor más directo.
+
+freetour.com ofrece tours gratuítos por ciudades de todo el mundo pero no alojamiento o algún medio de transporte, obtienen dinero mediante donaciones optativas al final de los tours, también ofrecen tours virtuales ahora durante la época de la pandemia del covid. 
+
+Sobre las tácticas de venta, la excepción es freetour.com, que confía en la opcionalidad del pago para atraer a clientes potenciales, el resto de páginas ofrecen mayor variedad de servicios para poder satisfacer todas las necesidades de un turista pero no se publicitan tan bien.
+
+disfrutamadrid.com es parte de la empresa Civitatis, y tienen presencia en las redes a través del nombre Civitatis, lo que puede ayudar a gente a conocer disfrutamadrid.com si ha usado otro servicio de esta.
+
+barcelonaturisme.com es la página con más presencia en las redes sociales, consiguiendo hasta 343k seguidores en Instagram, Civitatis tiene 143k, y el resto no tienen un seguimiento importante, probablemente porque para el turismo el enfoque más visual de Instagram sea más exitoso porque la gente puede ver fácilmente el sitio al que va.
+
+![Método UX](img/competitiveAnalysis.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
 **Persona 1: Sofía Sánchez Vicario**
 
 > “Anteponerse ante las adversidades”
