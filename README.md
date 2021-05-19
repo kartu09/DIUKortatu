@@ -202,35 +202,55 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Se ha creado un moodboard con Milanote y un logotipo.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![mood](https://raw.githubusercontent.com/kartu09/DIUKortatu/main/P3/milanote.png)
 
+![logo_ruta_del_jamon](https://user-images.githubusercontent.com/79192917/118139036-44625d80-b407-11eb-8f66-0869e1a0e1e7.png)
+
+El logotipo se ha creado con GIMP basandonos en un logotipo de Sierra Nevada, la resolución de 910x548 pixeles se debe a la resolución del logotipo original de Sierra Nevada que se ha modificado, nos gustaría de disponer del logotipo con mayor resolución pero creemos que 910x548 es suficiente resolución para la mayoría de usso del logotipo.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Se ha diseñado una landing page usando Adobe xd, que está disponible con el nombre Ruta del Jamón Landing Page.xd en la carpeta p3.
 
->>> Plantear Landing Page 
+![landing](https://raw.githubusercontent.com/kartu09/DIUKortatu/main/P3/Landingpage.png)
+ 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Patrones de diseño usados en el diseño de La Ruta del Jamón.
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Input Promt: Para introducir datos en reserva.
+
+Rate Content: En página de experiencias con reseñas de TripAdvisor.
+
+Calender Picker: En tours, tour 1 y pack de tours para comprobar la disponibilidad de los tours.
+
+Vertical Dropdown Menu: En todas las páginas para moverse de página.
+
+Home Link: En todas las páginas para moverse al inicio.
+
+Fat Footer: En todas las páginas existe un footer con información que puede importar al usuario.
+
+Frequently Asked Questions (FAQ): Existe una sección de preguntas frecuentes.
+
+Gallery: Existe una galería de imágenes en la página principal, representada por dos flechas para cambiar de imagen.
+
+Optimism Bias: Se ha intentado usar un lenguaje positivo respecto al producto que se quiere vender.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+Se ha realizado un mockup con Adobe xd, el archivo está disponible en la carpeta p3 cone el nombre Ruta del Jamon.xd
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
+En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
 
 
 ## Paso 4. Evaluación 
