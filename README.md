@@ -101,23 +101,41 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+![moodboard](https://raw.githubusercontent.com/kartu09/DIUKortatu/main/P3/milanote.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+El logotipo fue diseñado usando GIMP, con una resolución de 910 x 548 pixeles que nos permite usarlo en la mayoría de tamaños que esperamos usarlo.
+El logotipo se basó en un logotipo de Sierra Nevada y no estaba disponible en una resolución mayor por eso la resolución relativamente pequeña.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Se ha diseñado una landing page usando Adobe xd, se puede ver en el archivo Ruta del Jamón Landing.xd en la carpeta p3.
 
->>> Plantear Landing Page 
+![landing](https://raw.githubusercontent.com/kartu09/DIUKortatu/main/P3/Landingpage.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Patrones de diseño usados en el diseño de La Ruta del Jamón.
+
+Input Promt: Para introducir datos en reserva.
+
+Rate Content: En página de experiencias con reseñas de TripAdvisor.
+
+Calender Picker: En tours, tour 1 y pack de tours para comprobar la disponibilidad de los tours.
+
+Vertical Dropdown Menu: En todas las páginas para moverse de página.
+
+Home Link: En todas las páginas para moverse al inicio.
+
+Fat Footer: En todas las páginas existe un footer con información que puede importar al usuario.
+
+Frequently Asked Questions (FAQ): Existe una sección de preguntas frecuentes.
+
+Gallery: Existe una galería de imágenes en la página principal, representada por dos flechas para cambiar de imagen.
+
+Optimism Bias: Se ha intentado usar un lenguaje positivo respecto al producto que se quiere vender.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -129,7 +147,8 @@ Término | Significado
 -----
 
 
->>> En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
+>>> Publicar my Case Study en Github..
+En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
 
 
 ## Paso 4. Evaluación 
