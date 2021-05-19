@@ -31,6 +31,94 @@ Miembros
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+**Persona 1: Sofía Sánchez Vicario**
+
+> “Anteponerse ante las adversidades”
+
+Edad: 25
+Ocupación:Estudiante de Máster en Pedagogía.
+Familia: Soltera.
+Residencia: Valencia.
+Motivación: Quiere vivir la vida viajando.
+Personalidad (1 al 5)
+
+Introvertido/reservado Vs Extrov/activo
+Realista/práctico Vs Intuición/imaginativo
+Racional/analitico Vs Emocional/impulsivo
+Flemático/apático Vs Colérico/visceral 
+
+Bio
+Es de Valencia  y se encuentra en Madrid estudiando un Máster en Pedagogía. Tiene una discapacidad que le imposibilita la modalidad de cintura para abajo. En Madrid tiene un grupo de amigos y tienen como costumbre juntarse con los estudiantes Erasmus que acuden a la ciudad.
+
+Metas 
+-Conocer gente nueva.
+-Viajar y disfrutar de los diferentes lugares y costumbres.
+
+
+Frustraciones 
+-No poder disfrutar de muchas actividades debido a su discapacidad.
+
+Tecnología (skills)
+
+
+TIC/Internet -> 4
+Movil -> 4
+RRSS ->5
+Software->3
+
+
+Contexto (Needs): Quiere demostrarle al mundo que una discapacidad no te impide hacer lo que quieras y vivir una vida plena.
+
+Canales
+Publicidad Tradicional -> 1
+Online & Social Media -> 4
+Recomendaciones & sugerencias -> 3
+Persona confianza (amigos, boca a boca) -> 4
+
+**Persona 2:Francisco Fernández Mártinez**
+
+>“tempus fugit“
+
+Edad: 53
+Ocupación: Fontanero.
+Familia: Divorciado, con dos hijos.
+Residencia: Oviedo.
+Motivación: Recuperar el tiempo perdido en el matrimonio.
+Personalidad (1 al 5)
+
+Introvertido/reservado Vs Extrov/activo 4
+Realista/práctico Vs Intuición/imaginativo 2
+Racional/analitico Vs Emocional/impulsivo 4
+Flemático/apático Vs Colérico/visceral 4
+
+Bio
+
+Francisco es un fontanero de Oviedo que se ha separado, sus dos hijos ya son mayores de edad, su círculo social más habitual son su grupo de amigos con los que suele quedar en bares y que les gusta realizar viajes juntos cada cierto tiempo, para los que disponen de una buena situación económica porque no tiene muchos gastos.
+
+Metas 
+Visitar el estadio de su club de fútbol favorito el Real Madrid.
+Conocer lugares nuevos con interés histórico-cultural.
+Probar comida en lugares diferentes.
+Pasar un buen rato con su grupo de amigos.
+
+Frustraciones 
+No le gusta cuando las páginas le piden registrarse y poner mucha información que considera que no es necesario dar.
+
+Tecnología (skills)
+TIC/Internet 3
+Movil 2
+RRSS 2
+Software 1
+Contexto (Needs)
+Quiere viajar con sus amigos y desconectar durante sus vacaciones.
+
+Canales
+Publicidad Tradicional 4
+Online & Social Media 2
+Recomendaciones & sugerencias 2
+Persona confianza (amigos, boca a boca) 5
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
@@ -101,51 +189,35 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-![moodboard](https://raw.githubusercontent.com/kartu09/DIUKortatu/main/P3/milanote.png)
 
-El logotipo fue diseñado usando GIMP, con una resolución de 910 x 548 pixeles que nos permite usarlo en la mayoría de tamaños que esperamos usarlo.
-El logotipo se basó en un logotipo de Sierra Nevada y no estaba disponible en una resolución mayor por eso la resolución relativamente pequeña.
+>>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Incluir Logotipo
+>>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-Se ha diseñado una landing page usando Adobe xd, se puede ver en el archivo Ruta del Jamón Landing.xd en la carpeta p3.
 
-![landing](https://raw.githubusercontent.com/kartu09/DIUKortatu/main/P3/Landingpage.png)
-
+>>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Patrones de diseño usados en el diseño de La Ruta del Jamón.
-
-Input Promt: Para introducir datos en reserva.
-
-Rate Content: En página de experiencias con reseñas de TripAdvisor.
-
-Calender Picker: En tours, tour 1 y pack de tours para comprobar la disponibilidad de los tours.
-
-Vertical Dropdown Menu: En todas las páginas para moverse de página.
-
-Home Link: En todas las páginas para moverse al inicio.
-
-Fat Footer: En todas las páginas existe un footer con información que puede importar al usuario.
-
-Frequently Asked Questions (FAQ): Existe una sección de preguntas frecuentes.
-
-Gallery: Existe una galería de imágenes en la página principal, representada por dos flechas para cambiar de imagen.
-
-Optimism Bias: Se ha intentado usar un lenguaje positivo respecto al producto que se quiere vender.
+>>> Estudio de Guidelines y Patrones IU a usar 
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-El layout en Adobe xd está disponible en la carpeta 3 y se llama Ruta del Jamon.xd
+>>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
+
+>>> En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
 
 
 ## Paso 4. Evaluación 
