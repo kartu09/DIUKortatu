@@ -129,7 +129,6 @@ Término | Significado
 -----
 
 
->>> Publicar my Case Study en Github..
 En este enlace podemos ver un video con una breve descripción de nuestro proyecto:https://youtu.be/iec6DRej5wo
 
 
