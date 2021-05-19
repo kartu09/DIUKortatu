@@ -203,6 +203,7 @@ Término | Significado
 -----
 
 Se ha creado un moodboard con Milanote y un logotipo.
+Se puede consultar el moodboard en el siguiente enlace: https://app.milanote.com/1Lzdtv1v5hAX6S?p=4vGcJtbWbKB
 
 ![mood](https://raw.githubusercontent.com/kartu09/DIUKortatu/main/P3/milanote.png)
 
