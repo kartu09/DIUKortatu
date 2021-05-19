@@ -126,6 +126,9 @@ Persona confianza (amigos, boca a boca) 5
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
+![Método UX](img/pers1.png)
+![Método UX](img/pers2.png)
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
